@@ -3,7 +3,6 @@ package edu.cs;
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
-import java.util.UUID;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
